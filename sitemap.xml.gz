@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<pre><code>&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/about/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/contact/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/examples/Community/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/examples/HAXTeam/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/examples/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/install/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/roadmap/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+
+&lt;url&gt;
+  &lt;loc&gt;https://liljimmyk99.github.io/hax11ty-basic-blog/content/why/&lt;/loc&gt;
+  &lt;lastmod&gt;2022-02-17T17:55:46+00:00&lt;/lastmod&gt;
+  &lt;changefreq&gt;daily&lt;/changefreq&gt;
+  &lt;priority&gt;1.0&lt;/priority&gt;
+&lt;/url&gt;
+</code></pre>
+</urlset>
